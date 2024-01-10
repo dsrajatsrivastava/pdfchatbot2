@@ -4,7 +4,7 @@ import os
 from ingestorandgpt import FileIngestorGPT
 import openai
 import streamlit as st
-from openai.error import AuthenticationError
+# from openai.error import AuthenticationError
 
 # Set the title for the Streamlit app
 st.title("Chat with PDF - 🤖 🔗")
